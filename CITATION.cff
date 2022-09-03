@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Krause
+    given-names: Andrew L
+    orcid: https://orcid.org/0000-0001-9638-7278
+  - family-names: Gaffney
+    given-names: Eamonn A
+    orcid: https://orcid.org/0000-0002-6888-4362
+  - family-names: Walker
+    given-names: Benjamin
+    orcid: https://orcid.org/0000-0003-0853-267X
+title: "Concentration Dependent Growth Simulations"
+version: 1.0
+date-released: 2022-09-03
